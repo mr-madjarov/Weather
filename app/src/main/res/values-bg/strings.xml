@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Времето</string>
+    <string name="action_settings">Настройки</string>
+    <string name="address_found">Адреса е открит</string>
+    <string name="find_butt">Търси</string>
+    <string name="change_city" translatable="false">Друго местоположение</string>
+    <string name="no_address_found">Адреса не е намерен</string>
+    <string name="place_not_found">Няма намерени данни</string>
+    <string name="use_gps">Текущо местоположение</string>
+    <string name="change_city_hint">Въведете име на град</string>
+</resources>

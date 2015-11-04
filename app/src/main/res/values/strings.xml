@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather </string>
+
+     <string name="action_settings">Settings</string>
+     <string name="use_gps">Use GPS</string>
+     <string name="change_city">Change city</string>
+     <string name="change_city_hint">Enter city name</string>
+     <string name="find_butt">Go</string>
+     <string name="service_not_available" translatable="false">Geocoder Service is not available!</string>
+     <string name="invalid_lat_long_used" translatable="false">Invalid lat long used!</string>
+     <string name="no_address_found">No address found!</string>
+     <string name="address_found">Address found!</string>
+     <string name="no_geocoder_available" translatable="false">No geocoder available!!!</string>
+     <string name="open_weather_maps_app_key0" translatable="false">11111</string>
+     <string name="open_weather_maps_app_key1" translatable="false">b4caa3e8267dda2068deacc56f211a9e</string>
+     <string name="weather_sunny" translatable="false">&#xf00d;</string>
+     <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+     <string name="weather_foggy" translatable="false">&#xf014;</string>
+     <string name="weather_cloudy" translatable="false">&#xf013;</string>
+     <string name="weather_rainy" translatable="false">&#xf019;</string>
+     <string name="weather_snowy" translatable="false">&#xf01b;</string>
+     <string name="weather_thunder" translatable="false">&#xf01e;</string>
+     <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+     <string name="bg_foggy" translatable="false">bg_foggy</string>
+     <string name="bg_cloudy" translatable="false">bg_cloudy</string>
+     <string name="bg_rainy" translatable="false">bg_rainy</string>
+     <string name="bg_snowy" translatable="false">bg_snow</string>
+     <string name="bg_thunder" translatable="false">bg_thunder</string>
+     <string name="bg_drizzle" translatable="false">bg_drizzle</string>
+     <string name="bg_clear_night" translatable="false">bg_clear_night</string>
+     <string name="bg_sunny" translatable="false">bg_sunny</string>
+     <string name="place_not_found">Sorry, no weather data found.</string>
+</resources>
